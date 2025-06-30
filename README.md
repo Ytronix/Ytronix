@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Kader (aka Ytronix)
 
-<!--
-**Ytronix/Ytronix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st year BSc student from Bangladesh, passionate about web development and creative design.  
+Currently exploring the world of frontend development and loving the journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Tools
+- HTML, CSS
+- Bootstrap, Tailwind CSS
+- Git & GitHub
+- Learning JavaScript 
+
+---
+
+### 🧠 What I'm Working On
+- Sharpening my Frontend Development
+- Real-world projects for practice
+- Building a strong GitHub presence
+
+---
+
+### 📫 Connect with Me
+- ✉️ Email: abdulkadersadim89@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/abdul-kader-487541367
+- 🐦 Twitter: https://x.com/AbdulKaderSadim
+- 🌐 Portfolio (Coming soon)
